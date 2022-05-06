@@ -1,0 +1,12 @@
+.main-content{
+    display:flex;
+    background-color:bisque;
+}
+
+.content{
+    margin-top: 250px;
+    margin-left: 430px;
+}
+.submit{
+    margin-top: 40px;
+}
