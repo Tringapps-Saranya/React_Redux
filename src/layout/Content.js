@@ -1,21 +1,3 @@
-// import React from 'react'
-// import '../asserts/Content.css'
-// import '../asserts/Layout.css'
-// export const Content = () => {
-//   return (
-//       <div class='content'>
-//             <form>
-//               <div>
-//                     <label>
-//                         USER NAME
-//                         <input type="text" name="username" placeholder='Enter Username'/>
-//                     </label>
-//               </div>
-//                     <button className='submit'>SUBMIT</button>
-//             </form>
-//     </div>
-//   )
-// }
 import React,{useState}  from 'react'
 import '../asserts/Content.css'
 import '../asserts/Layout.css'
