@@ -1,14 +1,3 @@
-// import React from 'react'
-// import '../asserts/Footer.css'
-// import '../asserts/Layout.css'
-// export const Footer = () => {
-//   return (
-//     <div className="footer">
-//       <p> Welcome</p>
-//     </div>
-//   )
-// }
-
 import React from 'react'
 import '../asserts/Layout.css'
 import '../asserts/Footer.css'
